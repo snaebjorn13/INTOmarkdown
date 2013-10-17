@@ -15,8 +15,8 @@ Notuðum Git á windows, vim var uppsett inn í git bashinu.
 
 ## 3. Unnið með Git (1. hluti)
 
-Það gekk vel að forka verkefnið þrátt fyrir örlítið basl í fyrstu. Breytingarnar skiluðu sér þrátt fyrir að við værum greinilega
-ósammála hvað varðar enska knattspyrnu, inni í kóðanum eru stuðningsorð til bæði Liverpool og Manchester United.
+Það gekk vel að forka verkefnið. Breytingarnar skiluðu sér án vandræða þrátt fyrir að við værum greinilega
+ósammála hvað varðar enska knattspyrnu, kóðinn les út stuðnings orð til bæði Liverpool og Manchester United.
 
 https://github.com/omaroskars/INTOPrufa
 
