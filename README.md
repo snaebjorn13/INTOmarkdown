@@ -6,7 +6,8 @@
 ## 1. Linux uppsetning
 
 Það var ansi mikið vesen með Ubuntu, annar okkar náði ekki að boota það upp og hinn gat ekkert notað það af viti. Þess
-vegna notuðum við Git á Windows og það gekk vonum framar.
+vegna notuðum við Git á Windows og það gekk vonum framar. Engu að síður ætla ég að láta fylgja með mynd af Ómari boota upp Ubuntu.
+![Imgur](http://i.imgur.com/WxV8J1u.jpg?1)
 
 ## 2. Uppsetning á vim && git
 
